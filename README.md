@@ -6,7 +6,7 @@ I'm a software developer passionate about building modern, responsive, and user-
 
 **Technologies:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, and React Native.
 
+- 👤  Portfolio: aladedev.vercel.app
+- 📫 Contact: azeezmustapha380@gmail.com
 - 🚀 Always learning and improving my skills.
 - 🤝 Open to collaboration and exciting opportunities.
-- 📫 Contact: azeezmustapha380@gmail.com
-
